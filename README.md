@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zehra21 I am a student at Bilkent University
 - 👀 I’m interested in art, illustration and coding 
-- 🌱 I’m currently learning java 
 - 📫 You can reach me by my email address
 
 <!---
